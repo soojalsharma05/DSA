@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/soojalsharma05/DSA/tree/master/0001-two-sum) |
 | [0268-missing-number](https://github.com/soojalsharma05/DSA/tree/master/0268-missing-number) |
+| [0283-move-zeroes](https://github.com/soojalsharma05/DSA/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/soojalsharma05/DSA/tree/master/0485-max-consecutive-ones) |
 | [1480-running-sum-of-1d-array](https://github.com/soojalsharma05/DSA/tree/master/1480-running-sum-of-1d-array) |
 | [1748-sum-of-unique-elements](https://github.com/soojalsharma05/DSA/tree/master/1748-sum-of-unique-elements) |
@@ -39,4 +40,8 @@
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/soojalsharma05/DSA/tree/master/0268-missing-number) |
+## Two Pointers
+|  |
+| ------- |
+| [0283-move-zeroes](https://github.com/soojalsharma05/DSA/tree/master/0283-move-zeroes) |
 <!---LeetCode Topics End-->
