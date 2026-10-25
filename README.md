@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/soojalsharma05/DSA/tree/master/0001-two-sum) |
+| [0268-missing-number](https://github.com/soojalsharma05/DSA/tree/master/0268-missing-number) |
 | [0485-max-consecutive-ones](https://github.com/soojalsharma05/DSA/tree/master/0485-max-consecutive-ones) |
 | [1480-running-sum-of-1d-array](https://github.com/soojalsharma05/DSA/tree/master/1480-running-sum-of-1d-array) |
 | [1748-sum-of-unique-elements](https://github.com/soojalsharma05/DSA/tree/master/1748-sum-of-unique-elements) |
@@ -16,9 +17,26 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/soojalsharma05/DSA/tree/master/0001-two-sum) |
+| [0268-missing-number](https://github.com/soojalsharma05/DSA/tree/master/0268-missing-number) |
 | [1748-sum-of-unique-elements](https://github.com/soojalsharma05/DSA/tree/master/1748-sum-of-unique-elements) |
 ## Counting
 |  |
 | ------- |
 | [1748-sum-of-unique-elements](https://github.com/soojalsharma05/DSA/tree/master/1748-sum-of-unique-elements) |
+## Math
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/soojalsharma05/DSA/tree/master/0268-missing-number) |
+## Binary Search
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/soojalsharma05/DSA/tree/master/0268-missing-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/soojalsharma05/DSA/tree/master/0268-missing-number) |
+## Sorting
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/soojalsharma05/DSA/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
