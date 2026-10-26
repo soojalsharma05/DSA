@@ -28,6 +28,7 @@
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/soojalsharma05/DSA/tree/master/0268-missing-number) |
+| [0509-fibonacci-number](https://github.com/soojalsharma05/DSA/tree/master/0509-fibonacci-number) |
 ## Binary Search
 |  |
 | ------- |
@@ -51,4 +52,16 @@
 | ------- |
 | [0125-valid-palindrome](https://github.com/soojalsharma05/DSA/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/soojalsharma05/DSA/tree/master/0344-reverse-string) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/soojalsharma05/DSA/tree/master/0509-fibonacci-number) |
+## Recursion
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/soojalsharma05/DSA/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/soojalsharma05/DSA/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
