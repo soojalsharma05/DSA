@@ -19,6 +19,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/soojalsharma05/DSA/tree/master/0001-two-sum) |
 | [0205-isomorphic-strings](https://github.com/soojalsharma05/DSA/tree/master/0205-isomorphic-strings) |
+| [0242-valid-anagram](https://github.com/soojalsharma05/DSA/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/soojalsharma05/DSA/tree/master/0268-missing-number) |
 | [1748-sum-of-unique-elements](https://github.com/soojalsharma05/DSA/tree/master/1748-sum-of-unique-elements) |
 ## Counting
@@ -41,6 +42,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/soojalsharma05/DSA/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/soojalsharma05/DSA/tree/master/0268-missing-number) |
 ## Two Pointers
 |  |
@@ -53,6 +55,7 @@
 | ------- |
 | [0125-valid-palindrome](https://github.com/soojalsharma05/DSA/tree/master/0125-valid-palindrome) |
 | [0205-isomorphic-strings](https://github.com/soojalsharma05/DSA/tree/master/0205-isomorphic-strings) |
+| [0242-valid-anagram](https://github.com/soojalsharma05/DSA/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/soojalsharma05/DSA/tree/master/0344-reverse-string) |
 ## Dynamic Programming
 |  |
