@@ -1,15 +1,13 @@
 class Solution {
 public:
     vector<string> createGrid(int m, int n) {
-        // m rows, each n chars, all '#'
-        vector<string> arr(m, string(n, '#'));
+        vector<string> arr(m, string(n, '#')); 
 
-        for (int i = 0; i < m; i++) {
-            for (int j = 0; j < n; j++) {
-                if (i == 0 || j == n - 1)
-                    arr[i][j] = '.';
-            }
-        }
+        arr[0] = string(n, '.');               
+
+        for (int i = 1; i < m; i++)
+            arr[i][n - 1] = '.';  
+
         return arr;
     }
 };
