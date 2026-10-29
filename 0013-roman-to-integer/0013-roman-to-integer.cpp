@@ -15,6 +15,7 @@ public:
         int prev = 0;                 // value of the character to the right
 
         for (int i = n - 1; i >= 0; i--) {
+            // code was faulty coz we couldn't access i-1 at i==0
             int curr = mp[s[i]];
             if (curr < prev) sum -= curr;   // e.g. the I in IV
             else sum += curr;
