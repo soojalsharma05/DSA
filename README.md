@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/soojalsharma05/DSA/tree/master/0001-two-sum) |
+| [0014-longest-common-prefix](https://github.com/soojalsharma05/DSA/tree/master/0014-longest-common-prefix) |
 | [0035-search-insert-position](https://github.com/soojalsharma05/DSA/tree/master/0035-search-insert-position) |
 | [0268-missing-number](https://github.com/soojalsharma05/DSA/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/soojalsharma05/DSA/tree/master/0283-move-zeroes) |
@@ -60,6 +61,7 @@
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/soojalsharma05/DSA/tree/master/0013-roman-to-integer) |
+| [0014-longest-common-prefix](https://github.com/soojalsharma05/DSA/tree/master/0014-longest-common-prefix) |
 | [0125-valid-palindrome](https://github.com/soojalsharma05/DSA/tree/master/0125-valid-palindrome) |
 | [0205-isomorphic-strings](https://github.com/soojalsharma05/DSA/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/soojalsharma05/DSA/tree/master/0242-valid-anagram) |
@@ -76,4 +78,8 @@
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/soojalsharma05/DSA/tree/master/0509-fibonacci-number) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/soojalsharma05/DSA/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
