@@ -33,6 +33,7 @@
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/soojalsharma05/DSA/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/soojalsharma05/DSA/tree/master/0013-roman-to-integer) |
 | [0268-missing-number](https://github.com/soojalsharma05/DSA/tree/master/0268-missing-number) |
 | [0507-perfect-number](https://github.com/soojalsharma05/DSA/tree/master/0507-perfect-number) |
