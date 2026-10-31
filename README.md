@@ -37,6 +37,7 @@
 | [0268-missing-number](https://github.com/soojalsharma05/DSA/tree/master/0268-missing-number) |
 | [0507-perfect-number](https://github.com/soojalsharma05/DSA/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/soojalsharma05/DSA/tree/master/0509-fibonacci-number) |
+| [0728-self-dividing-numbers](https://github.com/soojalsharma05/DSA/tree/master/0728-self-dividing-numbers) |
 ## Binary Search
 |  |
 | ------- |
