@@ -15,6 +15,7 @@
 | [1480-running-sum-of-1d-array](https://github.com/soojalsharma05/DSA/tree/master/1480-running-sum-of-1d-array) |
 | [1748-sum-of-unique-elements](https://github.com/soojalsharma05/DSA/tree/master/1748-sum-of-unique-elements) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/soojalsharma05/DSA/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/soojalsharma05/DSA/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -41,6 +42,7 @@
 | [0507-perfect-number](https://github.com/soojalsharma05/DSA/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/soojalsharma05/DSA/tree/master/0509-fibonacci-number) |
 | [0728-self-dividing-numbers](https://github.com/soojalsharma05/DSA/tree/master/0728-self-dividing-numbers) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/soojalsharma05/DSA/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Binary Search
 |  |
 | ------- |
