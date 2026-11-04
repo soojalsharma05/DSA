@@ -10,6 +10,7 @@
 | [0035-search-insert-position](https://github.com/soojalsharma05/DSA/tree/master/0035-search-insert-position) |
 | [0268-missing-number](https://github.com/soojalsharma05/DSA/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/soojalsharma05/DSA/tree/master/0283-move-zeroes) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/soojalsharma05/DSA/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0485-max-consecutive-ones](https://github.com/soojalsharma05/DSA/tree/master/0485-max-consecutive-ones) |
 | [0704-binary-search](https://github.com/soojalsharma05/DSA/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/soojalsharma05/DSA/tree/master/0724-find-pivot-index) |
@@ -41,6 +42,7 @@
 | [0009-palindrome-number](https://github.com/soojalsharma05/DSA/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/soojalsharma05/DSA/tree/master/0013-roman-to-integer) |
 | [0268-missing-number](https://github.com/soojalsharma05/DSA/tree/master/0268-missing-number) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/soojalsharma05/DSA/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0507-perfect-number](https://github.com/soojalsharma05/DSA/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/soojalsharma05/DSA/tree/master/0509-fibonacci-number) |
 | [0728-self-dividing-numbers](https://github.com/soojalsharma05/DSA/tree/master/0728-self-dividing-numbers) |
